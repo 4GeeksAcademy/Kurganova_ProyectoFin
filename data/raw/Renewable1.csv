@@ -8,17 +8,16 @@
   <meta charset="utf-8" />
     <meta name="robots" content="index, follow" />
   <meta name="description" content="Kaggle is the world&#x2019;s largest data science community with powerful tools and resources to help you achieve your data science goals." />
-  <meta name="turbolinks-cache-control" content="no-cache" />
     <meta name="keywords" content="renewable energy" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
   <meta name="theme-color" content="#008ABC" />
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" type="text/javascript">
-    window["pageRequestStartTime"] = 1716221313272;
-    window["pageRequestEndTime"] = 1716221313375;
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" type="text/javascript">
+    window["pageRequestStartTime"] = 1716574045952;
+    window["pageRequestEndTime"] = 1716574046083;
     window["initialPageLoadStartTime"] = new Date().getTime();
   </script>
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" id="gsi-client" src="https://accounts.google.com/gsi/client" async defer></script>
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==">window.KAGGLE_JUPYTERLAB_PATH = "/static/assets/jupyterlab/jupyterlab-index-9369516b66d9c0a10de7.html";</script>
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" id="gsi-client" src="https://accounts.google.com/gsi/client" async defer></script>
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==">window.KAGGLE_JUPYTERLAB_PATH = "/static/assets/jupyterlab/jupyterlab-index-d32950cd4d890b8757ac.html";</script>
   <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous" /><link rel="preconnect" href="https://stats.g.doubleclick.net" /><link rel="preconnect" href="https://storage.googleapis.com" /><link rel="preconnect" href="https://apis.google.com" />
   <link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
   <link rel="manifest" href="/static/json/manifest.json" crossorigin="use-credentials">
@@ -34,7 +33,7 @@
     rel="stylesheet" media="print" id="async-google-font-1" />
   <link href="https://fonts.googleapis.com/css2?family=Google+Symbols:FILL@0..1&display=block"
     rel="stylesheet" media="print" id="async-google-font-2" />
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" type="text/javascript">
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" type="text/javascript">
     const styleSheetIds = ["async-google-font-1", "async-google-font-2"];
     styleSheetIds.forEach(function (id) {
       document.getElementById(id).addEventListener("load", function() {
@@ -43,7 +42,7 @@
     });
   </script>
 
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" src="https://www.google.com/recaptcha/enterprise.js?render=6LcW02cpAAAAAJlaJemsQQEwAiTEYB4aR6FYE_rD&waf=session" async defer></script>
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" src="https://www.google.com/recaptcha/enterprise.js?render=6LcW02cpAAAAAJlaJemsQQEwAiTEYB4aR6FYE_rD&waf=session" async defer></script>
    <style>.grecaptcha-badge { visibility: hidden; }</style>
 
     <link rel="canonical" href="https://www.kaggle.com/datasets/pythonafroz/renewable-power-generation-and-weather-conditions" />
@@ -53,7 +52,7 @@
   
     
  
-      <script nonce="s/SW0nrbXfDBKbrKkmq9ig==">
+      <script nonce="oBgoJXHHBT0clmjW1YNh0g==">
         try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
         d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
         y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
@@ -61,7 +60,7 @@
         (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
         })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
     </script>
-    <script nonce="s/SW0nrbXfDBKbrKkmq9ig==">
+    <script nonce="oBgoJXHHBT0clmjW1YNh0g==">
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
@@ -72,7 +71,7 @@
             'content_group1': 'Datasets'
         });
     </script>
-    <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" async src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
+    <script nonce="oBgoJXHHBT0clmjW1YNh0g==" async src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
 
   
     
@@ -90,7 +89,7 @@
   <meta name="twitter:site" content="@Kaggle" /> 
   
     
-            <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" type="application/ld+json">{"@context":"http://schema.org/","@type":"Dataset","name":"Renewable Power Generation and weather Conditions","description":"# Renewable Power Generation and weather Conditions\n\nImagine having access to a treasure trove of information that reveals how weather directly impacts renewable energy generation. This dataset, meticulously compiled with hourly measurements, is your key to unlocking those secrets.\n\n## Delving into the Details:\n\n1.Solar Power's Prime Driver: The dataset features \"Global Horizontal Irradiance (GHI)\" readings, which tell you the exact amount of solar radiation hitting a flat surface every hour. This is crucial, as sunlight is the lifeblood of solar energy production.\n\n2.Beyond Sunshine: But weather has more to offer than just sunshine. The dataset also includes data on temperature, humidity, and precipitation – all playing a role in energy production and consumption.\n\n3.Time Makes a Difference: By incorporating \"dayLength\" and \"sunlightTime\" measurements, you can see how the amount of daylight and sunshine availability directly affects energy generation patterns.\n\nInsights for Everyone:\n\nWhether you're a researcher, analyst, or simply curious about renewable energy, this dataset empowers you to:\n\nPredict Renewable Energy Output: By analyzing the relationship between weather and past energy generation, you can develop models to predict future output, aiding in grid management and energy planning.\n\nUnderstand Energy Demand: Weather can also influence energy consumption. Studying how temperature and other factors affect demand can help optimize energy infrastructure and distribution.\n\n## A Stepping Stone to a Greener Future:\n\nThis dataset is an invaluable tool for anyone working towards a more sustainable energy future. By understanding the intricate link between weather and renewable energy, we can unlock the full potential of clean energy sources and build a more resilient power grid.\n\nThis rewrite uses a more engaging tone, highlights specific data points with factual figures (\"hourly measurements\", \"Global Horizontal Irradiance (GHI)\"), and explains the potential applications of the data in a way that's relevant to a broader audience.\n\n\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8127972%2Fe3331867b7cec1abcafe3a43d57e6e6d%2Feclipse-grid-illo-superJumbo.gif?generation=1715074561444369&amp;alt=media)","url":"https://www.kaggle.com/pythonafroz/renewable-power-generation-and-weather-conditions","version":1,"keywords":["subject, science and technology, energy, renewable energy"],"license":{"@type":"CreativeWork","name":"CC0: Public Domain","url":"https://creativecommons.org/publicdomain/zero/1.0/"},"identifier":["4956778"],"includedInDataCatalog":{"@type":"DataCatalog","name":"Kaggle","url":"https://www.kaggle.com"},"creator":{"@type":"Person","name":"Afroz","url":"https://www.kaggle.com/pythonafroz","image":"https://storage.googleapis.com/kaggle-avatars/thumbnails/8127972-kg.png?t=2024-03-15-14-01-25"},"distribution":[{"@type":"DataDownload","requiresSubscription":true,"encodingFormat":"zip","fileFormat":"zip","contentUrl":"https://www.kaggle.com/datasets/pythonafroz/renewable-power-generation-and-weather-conditions/download?datasetVersionNumber=1","contentSize":"2123999 bytes"}],"commentCount":1,"dateModified":"2024-05-07T09:33:41.493Z","discussionUrl":"https://www.kaggle.com/pythonafroz/renewable-power-generation-and-weather-conditions/discussion","alternateName":"","isAccessibleForFree":true,"thumbnailUrl":"https://storage.googleapis.com/kaggle-datasets-images/4956778/8344638/a2a6aa289fce8461958dc287f1dab799/dataset-card.jpg?t=2024-05-07-09-36-53","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/CommentAction","userInteractionCount":1},{"@type":"InteractionCounter","interactionType":"http://schema.org/DownloadAction","userInteractionCount":277},{"@type":"InteractionCounter","interactionType":"http://schema.org/ViewAction","userInteractionCount":1527},{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":8}]}</script>
+            <script nonce="oBgoJXHHBT0clmjW1YNh0g==" type="application/ld+json">{"@context":"http://schema.org/","@type":"Dataset","name":"Renewable Power Generation and weather Conditions","description":"# Renewable Power Generation and weather Conditions\n\nImagine having access to a treasure trove of information that reveals how weather directly impacts renewable energy generation. This dataset, meticulously compiled with hourly measurements, is your key to unlocking those secrets.\n\n## Delving into the Details:\n\n1.Solar Power's Prime Driver: The dataset features \"Global Horizontal Irradiance (GHI)\" readings, which tell you the exact amount of solar radiation hitting a flat surface every hour. This is crucial, as sunlight is the lifeblood of solar energy production.\n\n2.Beyond Sunshine: But weather has more to offer than just sunshine. The dataset also includes data on temperature, humidity, and precipitation – all playing a role in energy production and consumption.\n\n3.Time Makes a Difference: By incorporating \"dayLength\" and \"sunlightTime\" measurements, you can see how the amount of daylight and sunshine availability directly affects energy generation patterns.\n\nInsights for Everyone:\n\nWhether you're a researcher, analyst, or simply curious about renewable energy, this dataset empowers you to:\n\nPredict Renewable Energy Output: By analyzing the relationship between weather and past energy generation, you can develop models to predict future output, aiding in grid management and energy planning.\n\nUnderstand Energy Demand: Weather can also influence energy consumption. Studying how temperature and other factors affect demand can help optimize energy infrastructure and distribution.\n\n## A Stepping Stone to a Greener Future:\n\nThis dataset is an invaluable tool for anyone working towards a more sustainable energy future. By understanding the intricate link between weather and renewable energy, we can unlock the full potential of clean energy sources and build a more resilient power grid.\n\nThis rewrite uses a more engaging tone, highlights specific data points with factual figures (\"hourly measurements\", \"Global Horizontal Irradiance (GHI)\"), and explains the potential applications of the data in a way that's relevant to a broader audience.\n\n\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8127972%2Fe3331867b7cec1abcafe3a43d57e6e6d%2Feclipse-grid-illo-superJumbo.gif?generation=1715074561444369&amp;alt=media)","url":"https://www.kaggle.com/pythonafroz/renewable-power-generation-and-weather-conditions","version":2,"keywords":["subject, science and technology, energy, renewable energy"],"license":{"@type":"CreativeWork","name":"CC0: Public Domain","url":"https://creativecommons.org/publicdomain/zero/1.0/"},"identifier":["4956778"],"includedInDataCatalog":{"@type":"DataCatalog","name":"Kaggle","url":"https://www.kaggle.com"},"creator":{"@type":"Person","name":"Afroz","url":"https://www.kaggle.com/pythonafroz","image":"https://storage.googleapis.com/kaggle-avatars/thumbnails/8127972-kg.png?t=2024-03-15-14-01-25"},"distribution":[{"@type":"DataDownload","requiresSubscription":true,"encodingFormat":"zip","fileFormat":"zip","contentUrl":"https://www.kaggle.com/datasets/pythonafroz/renewable-power-generation-and-weather-conditions/download?datasetVersionNumber=2","contentSize":"2123999 bytes"}],"commentCount":1,"dateModified":"2024-05-22T07:00:49.36Z","discussionUrl":"https://www.kaggle.com/pythonafroz/renewable-power-generation-and-weather-conditions/discussion","alternateName":"","isAccessibleForFree":true,"thumbnailUrl":"https://storage.googleapis.com/kaggle-datasets-images/4956778/8344638/a2a6aa289fce8461958dc287f1dab799/dataset-card.jpg?t=2024-05-07-09-36-53","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http://schema.org/CommentAction","userInteractionCount":1},{"@type":"InteractionCounter","interactionType":"http://schema.org/DownloadAction","userInteractionCount":598},{"@type":"InteractionCounter","interactionType":"http://schema.org/ViewAction","userInteractionCount":3215},{"@type":"InteractionCounter","interactionType":"http://schema.org/LikeAction","userInteractionCount":22}]}</script>
         
 
   
@@ -100,14 +99,14 @@
     
 
 
-    <script nonce="s/SW0nrbXfDBKbrKkmq9ig==">window['useKaggleAnalytics'] = true;</script>
+    <script nonce="oBgoJXHHBT0clmjW1YNh0g==">window['useKaggleAnalytics'] = true;</script>
 
-  <script id="gapi-target" nonce="s/SW0nrbXfDBKbrKkmq9ig==" src="https://apis.google.com/js/api.js" defer
+  <script id="gapi-target" nonce="oBgoJXHHBT0clmjW1YNh0g==" src="https://apis.google.com/js/api.js" defer
     async></script>
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" src="/static/assets/runtime.js?v=96c24c08a967efb5ee0c" data-turbolinks-track="reload"></script>
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" src="/static/assets/vendor.js?v=38b5f1af3c791be446c0" data-turbolinks-track="reload"></script>
-  <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" src="/static/assets/app.js?v=0cb512098feb97aac492" data-turbolinks-track="reload"></script>
-    <script nonce="s/SW0nrbXfDBKbrKkmq9ig==" type="text/javascript">
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" src="/static/assets/runtime.js?v=64742785203dcebf2689"></script>
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" src="/static/assets/vendor.js?v=b8b8264f6e81e19fa5f4"></script>
+  <script nonce="oBgoJXHHBT0clmjW1YNh0g==" src="/static/assets/app.js?v=df20c80090fe55dc6bde"></script>
+    <script nonce="oBgoJXHHBT0clmjW1YNh0g==" type="text/javascript">
       window.kaggleStackdriverConfig = {
         key: 'AIzaSyA4eNqUdRRskJsCZWVz-qL655Xa5JEMreE',
         projectId: 'kaggle-161607',
@@ -117,8 +116,8 @@
       }
     </script>
 </head>
+<body>
 
-<body data-turbolinks="false">
   <main>
     
 
@@ -132,7 +131,7 @@
     
 
 
-<script nonce="s/SW0nrbXfDBKbrKkmq9ig==" type="text/x-mathjax-config">
+<script nonce="oBgoJXHHBT0clmjW1YNh0g==" type="text/x-mathjax-config">
     MathJax.Hub.Config({
     "HTML-CSS": {
     preferredFont: "TeX",
@@ -165,7 +164,7 @@
     extensions: ["Safe.js"],
     });
 </script>
-<script type="text/javascript" nonce="s/SW0nrbXfDBKbrKkmq9ig==">
+<script type="text/javascript" nonce="oBgoJXHHBT0clmjW1YNh0g==">
   window.addEventListener("DOMContentLoaded", () => {
     const head = document.getElementsByTagName("head")[0];
     const lib = document.createElement("script");
